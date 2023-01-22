@@ -1,4 +1,4 @@
-## ML tutorial contents for Core.Today(코어닷투데이(주))'s DataStory platform.
+# ML tutorial contents for Core.Today(코어닷투데이(주))'s DataStory platform.
 
 1.backprop_practice*_cdt.py deals with mathematically implementing the general back-propagation algorithm (see file 'Notes on ML.pdf') without using the Torch's auto-gradient routine.
 
